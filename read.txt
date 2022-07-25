@@ -1,0 +1,17 @@
+## SOURCE CODE WILL COME OUT SOON 
+
+## THIS IS A MULTI TOOL. THE MULTI TOOL INCLUDES:
+
+Selfbot - Regular Selfbot commands, showcase will be uploaded on youtube soon.
+Nuker - Bans, Deletes Roles + Channels. Spam roles + Channels
+Webhook Spammr - Spams messages inside every channel 
+Other Tools - Mass DM, Message Purger, Account Nuker. 
+
+This can only work on Windows. (.exe file's only work on windows)
+
+1. Open the main.exe file 
+2. It may say its a virus, because of the .exe but you'll have to either run by administrator or turn the antivirus on for that file.
+
+You don't need to put your token in anywhere but in the .exe after you open it and it runs perfectly.
+
+There are alot of versions and bots skidded off our bot. So please becareful.
